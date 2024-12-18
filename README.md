@@ -21,7 +21,7 @@ Translate here and learn!
 
 - Language:swift 
 - Tool: DetailsPro
-- librarys: SwiftUI/AVFoundation  
+- libraries: SwiftUI/AVFoundation  
 - Chatgpt
 
 ## 🔧 Installation
