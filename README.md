@@ -8,20 +8,21 @@
 
 ## 📖 Description
 
-A brief description of your project:  
-What it does, why it exists, and any unique features.
+Are you starting to study mathematics? 
+Don't understand sentences written with mathematical symbols? 
+Translate here and learn!
 
 ## 🚀 Features
 
-- Feature 1  
-- Feature 2  
-- Feature 3  
+- Feature 1 : translates sentences into mathematical language.
+- Feature 2 : reads the translation made.
 
 ## 🛠️ Technologies Used
 
-- Language/Framework 1  
-- Tool/Library 2  
-- Other Technologies  
+- Language:swift 
+- Tool: DetailsPro
+- librarys: SwiftUI/AVFoundation  
+- Chatgpt
 
 ## 🔧 Installation
 
